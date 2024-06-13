@@ -21,8 +21,8 @@
 
 ## Generate Token with OAuth2 - Authorization: Basic Auth
 
-user: carlos.paez
-password: password
+- user: carlos.paez
+- password: password
 
 ***
 
@@ -30,7 +30,15 @@ password: password
 
 ### UsersController
 - Create user: POST - /users
+```
+{
+    "name": "",
+    "username": "",
+}
+```
+
 - Get users: GET - /users
+
 - Get users by name: GET - /users/{name}
 
 ***
