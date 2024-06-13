@@ -19,7 +19,7 @@
 
 ***
 
-## Generate Token with OAuth2 - Authorization: Basic Auth
+## Generate JWT with OAuth2 - Authorization: Basic Auth
 
 - user: carlos.paez
 - password: password
